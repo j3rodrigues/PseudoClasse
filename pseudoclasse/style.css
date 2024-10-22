@@ -36,7 +36,6 @@ a:hover{
     width: 15px;
     height: 15px;
 }
-/* ver se está certo */
 #enviar:disabled{
     background: #ccc;
 }
